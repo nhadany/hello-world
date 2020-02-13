@@ -1,2 +1,1 @@
-# hello-world
-My first git
+this is my commit descript
